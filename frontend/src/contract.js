@@ -1,5 +1,5 @@
 // Change this to your contract address
-export const CONTRACT_ADDRESS = "0x60cDAa2ec0536c82edA063903ab0E83C676dB21a";
+export const CONTRACT_ADDRESS = "0x0be555b2Ed7C5BAEb9ffE4c6ed238862f0D672B1";
 
 export const CONTRACT_ABI = [
   {
@@ -285,7 +285,7 @@ export const CONTRACT_ABI = [
     "type": "function"
   },
   {
-<<<<<<< HEAD
+
     "inputs": [
       {
         "internalType": "uint256",
@@ -305,8 +305,7 @@ export const CONTRACT_ABI = [
     "type": "function"
   },
   {
-=======
->>>>>>> 0200f661200769ce0219fd27f404cb8e13e96c2c
+
     "inputs": [],
     "name": "matchCount",
     "outputs": [
@@ -390,7 +389,7 @@ export const CONTRACT_ABI = [
     "inputs": [
       {
         "internalType": "uint256",
-<<<<<<< HEAD
+
         "name": "",
         "type": "uint256"
       },
@@ -415,8 +414,7 @@ export const CONTRACT_ABI = [
     "inputs": [
       {
         "internalType": "uint256",
-=======
->>>>>>> 0200f661200769ce0219fd27f404cb8e13e96c2c
+
         "name": "matchId",
         "type": "uint256"
       },

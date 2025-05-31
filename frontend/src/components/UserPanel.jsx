@@ -200,6 +200,7 @@ export default function UserPanel({ provider, address }) {
                       } - Bet amount: {ethers.formatEther(myBets[m.id].amount)} ETH</span>
                 ) : (
                   !myBets[m.id] || String(myBets[m.id].amount) === "0"
+
                     ? (myBets[m.id] && myBets[m.id].claimed
                         ? <span style={{color: '#81c784'}}>Refund claimed</span>
                         : <span style={{color: '#b0bec5'}}>You did not join</span>

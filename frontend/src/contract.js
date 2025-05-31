@@ -285,7 +285,6 @@ export const CONTRACT_ABI = [
     "type": "function"
   },
   {
-<<<<<<< HEAD
     "inputs": [
       {
         "internalType": "uint256",
@@ -305,8 +304,6 @@ export const CONTRACT_ABI = [
     "type": "function"
   },
   {
-=======
->>>>>>> 0200f661200769ce0219fd27f404cb8e13e96c2c
     "inputs": [],
     "name": "matchCount",
     "outputs": [
@@ -390,7 +387,6 @@ export const CONTRACT_ABI = [
     "inputs": [
       {
         "internalType": "uint256",
-<<<<<<< HEAD
         "name": "",
         "type": "uint256"
       },
@@ -415,8 +411,7 @@ export const CONTRACT_ABI = [
     "inputs": [
       {
         "internalType": "uint256",
-=======
->>>>>>> 0200f661200769ce0219fd27f404cb8e13e96c2c
+
         "name": "matchId",
         "type": "uint256"
       },
